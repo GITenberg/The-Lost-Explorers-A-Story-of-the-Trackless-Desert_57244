@@ -1,11 +1,14 @@
 _repo: The-Lost-Explorers-A-Story-of-the-Trackless-Desert_57244
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Buckland, Arthur H.
     alias: Buckland, A. H. (Arthur H.)
     gutenberg_agent_id: '8759'
     url: http://www.gutenberg.org/2009/agents/8759
+covers:
+- cover_type: archival
+  image_path: 57244-h/images/cover.jpg
 creator:
   author:
     agent_name: MacDonald, Alexander
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '41222'
     url: http://www.gutenberg.org/2009/agents/41222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57244#The-Lost-Explorers-A-Story-of-the-Trackless-Desert
 gutenberg_issued: '2018-05-31'
 gutenberg_type: Text
 identifiers:
